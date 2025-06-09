@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "A beautiful, responsive chess game built with Next.js, Chess.js, and React-Chessboard. Perfect for 2-player hotseat gameplay.",
   keywords: "chess, game, 2-player, hotseat, nextjs, react, chess game, online chess, multiplayer chess",
   generator: 'v0.dev',
-  metadataBase: new URL('https://your-domain.com'),
+  metadataBase: new URL('https://chess-web-seven.vercel.app/'),
   authors: [{ name: 'Your Name' }],
   creator: 'Your Name',
   publisher: 'Your Name',
